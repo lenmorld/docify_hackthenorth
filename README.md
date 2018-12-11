@@ -1,8 +1,14 @@
-Docify
+## Docify
 =====================
 
 Docify builds a central database for people's medical records and provides them with a QR code to access it. People can keep the QR code in their pocket or wallet and in times of emergencies, doctors can simply scan the QR code to immediately find out important on-demand info about the patient. This reduces the need for hard copies of medical records and modernizes a relatively archaic document storage system.
 
+
+## Tech
+
+- React Native
+- Ruby on Rails
+- Postgres
 
 
 ## Dependencies
